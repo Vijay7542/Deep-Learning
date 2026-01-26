@@ -1,1 +1,1 @@
-![Deep Learning](images/Deep%20Learning.jpg)s
+![Deep Learning](images/Deep%20Learning.jpg)
